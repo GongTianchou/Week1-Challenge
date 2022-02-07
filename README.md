@@ -1,15 +1,19 @@
 # Week1-Challenge
+
+## Purpose
 Refactor the website to make it more accessible.
 
+## Built with
+```
+* HTML
+* CSS
+```
 ## Contribution
 ```
-* There are many same setting in CSS file.
-I use Class attribute in HTML file to combine them to one group name and share the same setting in CSS file.
-
-* Delete unnecessary code.
+Made with Tianchou Gong
 ```
 
-## [Link](https://gongtianchou.github.io/Week1-Challenge/)
+## [Website](https://gongtianchou.github.io/Week1-Challenge/)
 
 ## ScreenShot
 
