@@ -9,7 +9,7 @@ I use Class attribute in HTML file to combine them to one group name and share t
 * Delete unnecessary code.
 ```
 ## ScreenShot
-```
+
 ![screenshot](./assets/images/Screenshot.png)
-```
+
 ## [Link](https://gongtianchou.github.io/Week1-Challenge/)
