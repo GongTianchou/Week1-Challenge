@@ -10,6 +10,6 @@ I use Class attribute in HTML file to combine them to one group name and share t
 ```
 ## ScreenShot
 ```
-![screenshot](https://github.com/GongTianchou/Week1-Challenge/blob/main/assets/images/Screenshot.png?raw=true)
+![screenshot](./assets/images/Screenshot.png)
 ```
 ## [Link](https://gongtianchou.github.io/Week1-Challenge/)
