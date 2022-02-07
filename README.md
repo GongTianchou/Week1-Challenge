@@ -10,7 +10,7 @@ Refactor the website to make it more accessible.
 ```
 ## Contribution
 ```
-Made with Tianchou Gong
+Made with ❤️ by Tianchou Gong
 ```
 
 ## [Website](https://gongtianchou.github.io/Week1-Challenge/)
