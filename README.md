@@ -1,5 +1,5 @@
 # Week1-Challenge
-Refacotr the website to make it more accessible.
+Refactor the website to make it more accessible.
 
 ## Contribution
 ```
